@@ -1,0 +1,31 @@
+.parent_div_courses{
+  display: flex;
+}
+app-courses-items{
+  flex:3;
+}
+app-cart-tray{
+  flex:1;
+  margin: 20px;
+}
+.filter_bar{
+  display: flex;
+  margin-top: 1%;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.filter_select{
+
+}
+#search_bar{
+  margin-left: 47%;
+  float: none;
+  display: block;
+  text-align: left;
+  width: 30%;
+  margin: 0;
+  padding: 14px;
+  border: 1px solid #ccc;
+  margin-right: 28.5%;
+
+}
